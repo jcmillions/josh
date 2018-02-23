@@ -1,0 +1,11 @@
+{
+  "name": "Josh",
+  "version": "1.0.0",
+  "description": "Test-Bot",
+  "main": "bot.js",
+  "author": "TheMightyDwighty",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^2.4.0"
+  }
+}
